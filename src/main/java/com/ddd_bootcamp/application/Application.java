@@ -6,6 +6,7 @@ import com.ddd_bootcamp.domain.Product;
 import java.util.List;
 
 public class Application {
+    //Added comment line for testing Git
     public static void main(String[] args) {
         Cart cart = new Cart();
         Product product = new Product("Apple Pencil");
